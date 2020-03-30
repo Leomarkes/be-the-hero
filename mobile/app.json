@@ -1,0 +1,9 @@
+{
+  "name": "mobile",
+  "displayName": "mobile",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#E02041"
+  }
+}
